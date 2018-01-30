@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/shawntsia/iDoc/xiaomi/MiShoppe/node_modules/react-native-app-settings-android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/shawntsia/iDoc/xiaomi/MiShoppe/node_modules/react-native-app-settings-android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/caixiaojia/Documents/MiShoppe/node_modules/react-native-app-settings-android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/caixiaojia/Documents/MiShoppe/node_modules/react-native-app-settings-android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/alan/Desktop/MiShoppe/node_modules/react-native-app-settings-android/build/intermediates/res/merged/release/xml/preferences.xml",
+        "source": "/Users/alan/Desktop/MiShoppe/node_modules/react-native-app-settings-android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.44.0/res/xml/preferences.xml"
+    }
+]

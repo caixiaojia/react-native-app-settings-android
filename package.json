@@ -1,0 +1,80 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "react-native-app-settings-android@git+https://github.com/coderge/react-native-app-settings-android.git",
+        "scope": null,
+        "escapedName": "react-native-app-settings-android",
+        "name": "react-native-app-settings-android",
+        "rawSpec": "git+https://github.com/coderge/react-native-app-settings-android.git",
+        "spec": "git+https://github.com/coderge/react-native-app-settings-android.git",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:coderge/react-native-app-settings-android.git",
+          "sshUrl": "git+ssh://git@github.com/coderge/react-native-app-settings-android.git",
+          "httpsUrl": "git+https://github.com/coderge/react-native-app-settings-android.git",
+          "gitUrl": "git://github.com/coderge/react-native-app-settings-android.git",
+          "shortcut": "github:coderge/react-native-app-settings-android",
+          "directUrl": "https://raw.githubusercontent.com/coderge/react-native-app-settings-android/master/package.json"
+        }
+      },
+      "/Users/alan/Desktop/MiShoppe"
+    ]
+  ],
+  "_from": "git+https://github.com/coderge/react-native-app-settings-android.git",
+  "_id": "react-native-app-settings-android@1.0.0",
+  "_inCache": true,
+  "_location": "/react-native-app-settings-android",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "react-native-app-settings-android@git+https://github.com/coderge/react-native-app-settings-android.git",
+    "scope": null,
+    "escapedName": "react-native-app-settings-android",
+    "name": "react-native-app-settings-android",
+    "rawSpec": "git+https://github.com/coderge/react-native-app-settings-android.git",
+    "spec": "git+https://github.com/coderge/react-native-app-settings-android.git",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:coderge/react-native-app-settings-android.git",
+      "sshUrl": "git+ssh://git@github.com/coderge/react-native-app-settings-android.git",
+      "httpsUrl": "git+https://github.com/coderge/react-native-app-settings-android.git",
+      "gitUrl": "git://github.com/coderge/react-native-app-settings-android.git",
+      "shortcut": "github:coderge/react-native-app-settings-android",
+      "directUrl": "https://raw.githubusercontent.com/coderge/react-native-app-settings-android/master/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git+https://github.com/coderge/react-native-app-settings-android.git#180a8e5f5368708008d0b377e486c6f766c9e96f",
+  "_shasum": "1504ab6202cb0a20128cb3368c996616abdd5ddf",
+  "_shrinkwrap": null,
+  "_spec": "react-native-app-settings-android@git+https://github.com/coderge/react-native-app-settings-android.git",
+  "_where": "/Users/alan/Desktop/MiShoppe",
+  "author": {
+    "name": "Coderge"
+  },
+  "dependencies": {},
+  "deprecated": false,
+  "description": "can open app setting in android",
+  "devDependencies": {
+    "react": ">=15.0.0",
+    "react-native": ">=0.24.0"
+  },
+  "gitHead": "180a8e5f5368708008d0b377e486c6f766c9e96f",
+  "keywords": [
+    "react-native-app-settings-android"
+  ],
+  "license": "MIT",
+  "main": "AndroidAppSettings.js",
+  "name": "react-native-app-settings-android",
+  "optionalDependencies": {},
+  "readme": "# react-native-app-settings-android\nCan open app setting in android\n",
+  "readmeFilename": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
